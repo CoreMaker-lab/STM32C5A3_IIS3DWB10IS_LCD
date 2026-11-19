@@ -12,6 +12,8 @@ CSV 导出。
 > 本仓库包含 STM32C5A3RGT6 固件 CMake 工程和中英文双语 PC
 > 上位机。当前固件支持 **2.5 / 5 / 10 / 20 kS/s** 四档采样率，最高 **20
 > kS/s**。
+<img width="1601" height="790" alt="image" src="https://github.com/user-attachments/assets/aa8506c7-58ae-43c9-900e-deebf4b119f8" />
+<img width="1600" height="1164" alt="image" src="https://github.com/user-attachments/assets/0045a31e-2a47-42df-abe7-1794dda65474" />
 
 ------------------------------------------------------------------------
 
