@@ -15,7 +15,19 @@ CSV 导出。
 <img width="1601" height="790" alt="image" src="https://github.com/user-attachments/assets/aa8506c7-58ae-43c9-900e-deebf4b119f8" />
 <img width="1600" height="1164" alt="image" src="https://github.com/user-attachments/assets/0045a31e-2a47-42df-abe7-1794dda65474" />
 
+
+
 ------------------------------------------------------------------------
+## 项目维护者与联系方式 \| Project Maintainer & Contact
+
+- **Name / 姓名**: Billy
+- **交流群 / Discussion Group**: 925643491
+- **Email / 邮箱**: <a845656974@outlook.com>
+- **Phone / 电话**: +86 15622736378
+
+
+------------------------------------------------------------------------
+
 
 ## 目录
 
